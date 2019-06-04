@@ -1,39 +1,39 @@
-// // for(let i= 0; i < 5; i++){
-// //     console.log(i);
-// //     console.log('Hello');
+// let x = Number(prompt("Enter x: "));
+// let y = Number(prompt("Enter y: "));
+// // console.log(x+y);
+// // console.log("Lựa chọn phép tính cần thực hiện: ");
+// // console.log("1. Tính tổng");
+// // console.log("2. Tính hiệu");
+// // console.log("3. Phép nhân");
+// // console.log("4. Phép chia");
 
+// // let n = prompt("n");
+// // if(n=1){
+// //     console.log(x+y)
+// // }
+// // if(n=2){
+// //     console.log(x-y);
+// // }
+// // if(n=3){
+// //     console.log(x*y);
+// // }
+// // if(n=4){
+// //     console.log(x/y);
 // // }
 
-// //in ra dãy số 3-100
+// let op = prompt("Enter y: ");
 
-// // for(let i = 3; i < 100; i++){
-// //     console.log(i);
+// let result = 0; 
 
-// // }
+// if(op === "+"){
+//     result = x+y;
+// }else if (op === "-"){
 
-// // for(let i = 3; i < 100; i=i+3){
-     
-// //     console.log(i);
-
-// // }
-
-// // for(let i=100; i>=3; i=i-1){
-// //     console.log(i);
-// // }
-// // for(let i=100; i>=3; i=i-3){
-// //     console.log(i);
-// // }
-//  // Nhập vào số n in ra tổng các số từ 1 đến n; 
-
-//  let n=Number(prompt("Enter a number"));
-//  let result = 0;
-//  for(let i=1; i<=n; i++){
-//     result = result + i;
-//  }
-//     console.log(result); 
-
-// clear()
-// for(let i=0; i<200; i+20){
-// fd(100)
-// rt(90)
 // }
+
+
+// console.log(result);
+
+
+
+
